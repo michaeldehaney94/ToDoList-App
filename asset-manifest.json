@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/michaeldehaney94/ToDoList-App/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/michaeldehaney94/ToDoList-App/static/js/main.775d1c8d.chunk.js",
-    "main.js.map": "/michaeldehaney94/ToDoList-App/static/js/main.775d1c8d.chunk.js.map",
-    "runtime-main.js": "/michaeldehaney94/ToDoList-App/static/js/runtime-main.898251a8.js",
-    "runtime-main.js.map": "/michaeldehaney94/ToDoList-App/static/js/runtime-main.898251a8.js.map",
-    "static/js/2.785812c0.chunk.js": "/michaeldehaney94/ToDoList-App/static/js/2.785812c0.chunk.js",
-    "static/js/2.785812c0.chunk.js.map": "/michaeldehaney94/ToDoList-App/static/js/2.785812c0.chunk.js.map",
-    "static/js/3.197baeed.chunk.js": "/michaeldehaney94/ToDoList-App/static/js/3.197baeed.chunk.js",
-    "static/js/3.197baeed.chunk.js.map": "/michaeldehaney94/ToDoList-App/static/js/3.197baeed.chunk.js.map",
-    "index.html": "/michaeldehaney94/ToDoList-App/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/michaeldehaney94/ToDoList-App/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.785812c0.chunk.js.LICENSE.txt": "/michaeldehaney94/ToDoList-App/static/js/2.785812c0.chunk.js.LICENSE.txt"
+    "main.css": "/ToDoList-App/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ToDoList-App/static/js/main.775d1c8d.chunk.js",
+    "main.js.map": "/ToDoList-App/static/js/main.775d1c8d.chunk.js.map",
+    "runtime-main.js": "/ToDoList-App/static/js/runtime-main.c0281293.js",
+    "runtime-main.js.map": "/ToDoList-App/static/js/runtime-main.c0281293.js.map",
+    "static/js/2.785812c0.chunk.js": "/ToDoList-App/static/js/2.785812c0.chunk.js",
+    "static/js/2.785812c0.chunk.js.map": "/ToDoList-App/static/js/2.785812c0.chunk.js.map",
+    "static/js/3.197baeed.chunk.js": "/ToDoList-App/static/js/3.197baeed.chunk.js",
+    "static/js/3.197baeed.chunk.js.map": "/ToDoList-App/static/js/3.197baeed.chunk.js.map",
+    "index.html": "/ToDoList-App/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ToDoList-App/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.785812c0.chunk.js.LICENSE.txt": "/ToDoList-App/static/js/2.785812c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.898251a8.js",
+    "static/js/runtime-main.c0281293.js",
     "static/js/2.785812c0.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.775d1c8d.chunk.js"
