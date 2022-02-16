@@ -32,7 +32,7 @@ const InputTodo = () => {
                 onChange={e => setDescription(e.target.value)} 
                 placeholder="Enter new task..."/>
 
-                <button className="btn btn-success">Add</button>
+                <button className="btn btn-success" title='addBtn'>Add</button>
             </form>
         </Fragment>
     );

@@ -64,7 +64,11 @@ const ListTodos = () => {
                             <td>
                                 <EditTodo todo={todo} /> 
                             </td>
-                            <td><button className="btn btn-danger" onClick={() => deleteTodo(todo.id)}>Delete</button></td>
+                            <td>
+                                <button className="btn btn-danger" title="deleteBtn" onClick={() => deleteTodo(todo.id)}>
+                                    Delete
+                                </button>
+                            </td>
                         </tr>
                     ))}
                    

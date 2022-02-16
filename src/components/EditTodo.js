@@ -48,7 +48,7 @@ const EditTodo = ({ todo }) => {
                         <div class="modal-body">
                             {/* the task selected within the list to be edited, it's value will pass into the
                             input field to be changed/updated inside the modal*/}
-                            <input type="text" value={description} className="form-control" 
+                            <input type="text" value={description} className="form-control" title="editBtn"
                                 onChange={e => setDescription(e.target.value)} />
                         </div>
 
